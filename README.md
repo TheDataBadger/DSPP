@@ -15,3 +15,9 @@ BPP BSc Data Science Apprenticeship
 - SQL
 
 ### Projects / Passions 
+- Socio-Economic Insights
+- Meteorology
+- Video Games & Board Games
+- Panel Shows
+- Robot Wars 
+- And General Nerd Stuff
