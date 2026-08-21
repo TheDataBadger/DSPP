@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/css.css">
+<link rel="stylesheet" href="assests/css.css">
 
 ## BSc Data Science Apprenticeship 
 
