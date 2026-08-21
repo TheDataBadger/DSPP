@@ -1,20 +1,20 @@
 ## BSc Data Science Apprenticeship 
 
 ## Data Scientist 
-(in training) 
+*in training* 
 
 ## Education 
 BPP BSc Data Science Apprenticeship  
 
 ## Work Experience 
-8 Years + BI Developer in the Banking Industry
+8 Years + **BI Developer** in the Banking Industry
 
-Specialising in customer behaviour, retention, and insight storytelling
+*Specialising in customer behaviour, retention, and insight storytelling*
 
 ## Skills
 - Power BI
 - SQL
-- Python (still loading) 
+- Python *(still loading...)* 
 - Data storytelling
 - Stakeholder communication
 
