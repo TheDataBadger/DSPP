@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="assests/css.css">
-
 ## BSc Data Science Apprenticeship 
 
 ## Data Scientist 
