@@ -3,7 +3,5 @@ logo: Assests/DataBadger.PNG
 description: Digging up Data
 show_downloads: true
 theme: jekyll-theme-minimal
-include:
-  - assests/css.css
 
 
